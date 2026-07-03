@@ -87,7 +87,7 @@ Each project includes:
 
 # 📄 Internship Task Document
 
-The official internship task description and project requirements are included in this repository as **Task.pdf**. :contentReference[oaicite:0]{index=0}
+The official internship task description and project requirements are included in this repository as **Task.pdf**.
 
 ---
 
