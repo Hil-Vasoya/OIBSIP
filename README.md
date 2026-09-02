@@ -50,25 +50,6 @@ Build Natural Language Processing (NLP) models to classify text into Positive, N
 
 ---
 
-## 🟡 Level 2
-
-### 1. Predicting House Prices with Linear Regression
-Develop a regression model to predict house prices using property features and evaluate model performance.
-
-### 2. Wine Quality Prediction
-Train and compare multiple machine learning classifiers to predict wine quality based on physicochemical properties.
-
-### 3. Fraud Detection
-Build a fraud detection pipeline capable of identifying fraudulent financial transactions while handling highly imbalanced datasets.
-
-### 4. Unveiling the Android App Market (Google Play Store Analysis)
-Analyze Google Play Store applications through data cleaning, visualization, statistical analysis, and sentiment analysis of user reviews.
-
-### 5. Autocomplete and Autocorrect Data Analytics
-Develop autocomplete and autocorrect systems using Natural Language Processing techniques, n-gram models, and spelling correction algorithms.
-
----
-
 # 🌟 What You'll Find in This Repository
 
 Each project includes:
