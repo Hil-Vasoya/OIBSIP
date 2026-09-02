@@ -2,7 +2,7 @@
 
 Welcome to my **Oasis Infobyte Data Analytics Internship (OIBSIP)** repository.
 
-This repository contains the projects completed as part of the **Data Analytics Internship** offered by **Oasis Infobyte**. The internship is designed to provide hands-on experience in solving real-world data analytics and machine learning problems using Python and industry-standard libraries. Throughout these projects, the focus is on data preprocessing, exploratory analysis, visualization, predictive modeling, natural language processing, and business insight generation.
+This repository contains the projects completed as part of the **Data Analytics Internship** offered by **Oasis Infobyte**. The internship is designed to provide hands-on experience in solving real-world data analytics and machine learning problems using Python and industry-standard libraries. Throughout these projects, the focus is on data preprocessing, exploratory analysis, and visualization.
 
 Each project demonstrates practical implementation of data science concepts, helping build a strong foundation in data analytics while developing skills that are directly applicable in industry.
 
@@ -12,7 +12,6 @@ Each project demonstrates practical implementation of data science concepts, hel
 
 - Develop practical data analytics and machine learning skills.
 - Learn to clean, process, and analyze real-world datasets.
-- Build predictive models and evaluate their performance.
 - Create meaningful visualizations for data interpretation.
 - Extract actionable business insights from data.
 - Gain experience with industry-standard Python libraries and workflows.
@@ -24,17 +23,13 @@ Each project demonstrates practical implementation of data science concepts, hel
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
 - Seaborn
-- NLTK
 - Jupyter Notebook
 
 ---
 
-# 📂 Internship Levels & Tasks
-
-## 🟢 Level 1
+# 📂 Internship Tasks
 
 ### 1. EDA on Retail Sales Data
 Perform exploratory data analysis on retail sales data to identify sales trends, customer behavior, product performance, and business insights.
@@ -58,8 +53,6 @@ Each project includes:
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Data Visualization
-- Machine Learning Models
-- Model Evaluation
 - Business Insights
 - Well-documented Jupyter Notebooks
 - Project-specific README files
